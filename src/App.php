@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace ShahradElahi\DurgerKing;
+namespace dollar1981\yobar54;
 
 use TelegramBot\Entities\Update;
 use TelegramBot\Request;
